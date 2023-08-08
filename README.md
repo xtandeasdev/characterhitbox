@@ -27,3 +27,6 @@ end)
 hitbox:Destroy()
 --destroys hitbox
 ```
+
+for install
+[Roblox](https://www.roblox.com/library/14360303960/CharacterHitbox)
